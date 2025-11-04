@@ -1,2 +1,2 @@
-# Ultimate-C-repository
-here you will get full access to c++ programs
+# Ultimate-C++-repository
+Here you will get full access to c++ programs
