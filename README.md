@@ -1,2 +1,4 @@
-# Ultimate-C++-repository
-Here you will get full access to c++ programs
+
+C++ programs and practice code for beginners
+
+cpp cplusplus beginner programming practice
